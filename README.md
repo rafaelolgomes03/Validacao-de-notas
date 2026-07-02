@@ -1,18 +1,2 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Este é um programa em Java que valida a nota de um aluno que o usuário digitar. A nota não deve ser menor que 0. Se isto acontecer, o programa lançará um erro. 
+    Como usar? Abra a pasta do projeto no seu gerenciador de arquivos, localize a pasta src e depois abra ela no termi   nal. Após fazer isto, digite o seguinte comando: java App.java. O programa exibirá um campo para você digitar uma nota. Se for maior ou igual a 0, aparecerá uma mensagem dizendo "Nota validada".
